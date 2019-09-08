@@ -29,3 +29,4 @@ Total:            100%
 ### Assignment Deadlines 'Autumn 2019
 
 Results Table:
+https://docs.google.com/spreadsheets/d/1iDUK2pY_-lpVGIwyu_2HE9e-qqo--3GPMxtz1eYPlzk/edit?usp=sharing
