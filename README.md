@@ -15,6 +15,7 @@ After completing the course, the students should be able to:
 
 ## Textbooks:
 * Juran's Quality Handbook (https://gmpua.com/QM/Book/quality%20handbook.pdf)
+* Ilene Burnstein "Practical Software Testing" (https://svkarthikwinner.files.wordpress.com/2015/07/practical-software-testing.pdf)
 * James Whittaker Jason Arbon Jeff Carollo "How Google Tests Software"
 
 ### Course Evaluation
