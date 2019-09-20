@@ -27,10 +27,10 @@ Total:            100%
 ```
 
 ### Assignment Deadlines 'Autumn 2019
-|                                          |  1 ListBoxer |
-| ---------------------------------------- | --- |
-| Soft Deadline (50% reduction if missed)  | 26.09.2019 (0.2 pts)|
-| Hard Deadline (100% reduction if missed) | 03.10.2019 (0.1 pts)|
+|                                          |  1 ListBoxer |2 Selenium |
+| ---------------------------------------- | --- | --- |
+| Soft Deadline (50% reduction if missed)  | 26.09.2019 (0.2 pts)| 10.10.2019 (0.2 pts)|
+| Hard Deadline (100% reduction if missed) | 03.10.2019 (0.1 pts)| 17.10.2019 (0.1 pts)|
 
 
 Results Table:
