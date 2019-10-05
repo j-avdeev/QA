@@ -9,6 +9,7 @@ For testing, you can use either ListBoxerFull.zip or ListBoxerShort.zip
 * ListBoxerShort.zip (without Run-time Visual Basic libraries)
 
 The number and non-obviousness of the errors found will influence the assessment of your result: write everything you find.
+No less than 20 bugs.
 
 The program includes both errors that lie on the surface, and requiring careful and in-depth testing.
 
